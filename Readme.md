@@ -9,10 +9,12 @@
 
 ## API
 
-    var is = require('is');
-    x = NaN;
-    x === x; // => false
-    is(x, x); // => true
+```javascript
+var is = require('is');
+x = NaN;
+x === x; // => false
+is(x, x); // => true
+```
 
 ## License
 
