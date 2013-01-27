@@ -11,7 +11,8 @@
 
     var is = require('is');
     x = NaN;
-    is(x, x); // => false
+    x === x; // => false
+    is(x, x); // => true
 
 ## License
 
