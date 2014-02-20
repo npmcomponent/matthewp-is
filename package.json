@@ -1,0 +1,8 @@
+{
+  "name": "matthewp-is",
+  "description": "egal function, based on ES6 Object.is",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
